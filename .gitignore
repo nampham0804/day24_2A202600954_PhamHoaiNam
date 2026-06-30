@@ -11,3 +11,7 @@ __pycache__/
 .python-version
 .venv/
 venv/
+
+# Local planning/reference notes
+LAB_TASKS.md
+NEXT_TASKS.md
