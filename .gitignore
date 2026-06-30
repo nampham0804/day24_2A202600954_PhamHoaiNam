@@ -1,0 +1,13 @@
+# Local secrets
+.env
+
+# Python cache/build artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Local Python environments
+.python-version
+.venv/
+venv/
