@@ -1,6 +1,7 @@
 # CI/CD Blueprint: RAG Eval + Guardrail Stack
 
-**Sinh viên:** Nguyễn Mạnh Quý  
+**Sinh viên:** Phạm Hoài Nam  
+**Mã học viên:** 2A202600954  
 **Ngày:** 2026-06-30
 
 ---

@@ -1,6 +1,7 @@
 # Failure Cluster Analysis — Phase A
 
-**Sinh viên:** Nguyễn Mạnh Quý  
+**Sinh viên:** Phạm Hoài Nam  
+**Mã học viên:** 2A202600954  
 **Ngày:** 30/06/2026
 
 ---
